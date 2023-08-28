@@ -1,4 +1,4 @@
-# 18CSE301J-INFORMATION-VIZULIZATION
+# 18CSE301J-INFORMATION-VISULIZATION
 
 Abstract Link :  https://drive.google.com/file/d/1vrWMRq1EtUdfJhvGGCJ6SVnMYR4x12X0/view?usp=drivesdk
 
